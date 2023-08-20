@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(103, 255, 204);
+}
+h1{
+    color: rgb(15, 41, 92);
+}
+h4{
+color: rgb(15, 41, 92);
+}
+
+header{
+    background-color: rgba(15, 196, 124, 0.997);
+}
+#a{
+    color: rgb(15, 41, 92);
+}
+footer{
+   color: rgb(15, 41, 92); 
+   background-color: rgb(15, 196, 124, 0.997);
+}
